@@ -11,6 +11,7 @@ int main(){
     for(int i=0; i<n; i++){
         cin>>input[i];
     }
+    
     cout<<"here is the arr";
     for(int i=0;i<100;i++){
         cout<<input[i];
